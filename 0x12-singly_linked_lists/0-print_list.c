@@ -20,5 +20,6 @@ while (h)
 	s++;
 	}
 	return (s);
+
 }
 
